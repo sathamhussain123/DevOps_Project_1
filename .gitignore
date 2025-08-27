@@ -27,3 +27,8 @@ docker-compose.override.yml
 secrets/
 *.pem
 *.key
+*.crt
+*.p12
+*.jks
+*.pfx
+*.env
