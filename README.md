@@ -24,7 +24,7 @@ It introduces the basics of modern DevOps with:
 
 ### 1️⃣ Clone Repo
 
-git clone https://github.com/your-username/devops-project-01-fastapi-docker-ci.git
+git clone https://github.com/sathamhussain123/DevOps_Projects.git
 cd devops-project-01-fastapi-docker-ci
 
 2️⃣ Create Virtual Environment
