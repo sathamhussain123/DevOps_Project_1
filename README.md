@@ -1,5 +1,12 @@
 # 🚀 FastAPI + Docker + GitHub Actions (CI Only)
 
+**Stage 1: Basics (Projects 1–10)
+Goal: Get comfortable with Git, Docker, GitHub Actions, simple automation.
+
+Project -01 : Hello DevOps: FastAPI + Docker + GitHub Actions (CI only)
+Tools: FastAPI, Docker, GitHub Actions, pytest, flake8
+Focus: CI basics, lint, tests, build.**
+
 This is the **Day 1 DevOps Starter Project** 🎯  
 It introduces the basics of modern DevOps with:
 
