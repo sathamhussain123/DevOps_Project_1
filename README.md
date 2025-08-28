@@ -60,6 +60,7 @@ python -mflake8 app tests
 
 🐳 Build & Run with Docker
 
+
 Build Image
 docker build -t fastapi-devops:1.0 .
 
