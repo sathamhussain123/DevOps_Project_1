@@ -53,10 +53,10 @@ Open in browser 🌐:
 
 5. 🧪 Run Tests & Lint
 Run unit tests ✅
-pytest -q
+python -m pytest -q
 
 Run lint check ✨
-flake8 app tests
+python -mflake8 app tests
 
 🐳 Build & Run with Docker
 
